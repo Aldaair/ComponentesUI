@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Proyectos-Android/app/src/main/res/drawable/border_radius.xml" value="0.2985" />
+        <entry key="..\:/Proyectos-Android/app/src/main/res/drawable/button_border.xml" value="0.2985" />
+        <entry key="..\:/Proyectos-Android/app/src/main/res/drawable/round_button.xml" value="0.2985" />
+        <entry key="..\:/Proyectos-Android/app/src/main/res/layout/ac.xml" value="0.35260416666666666" />
+        <entry key="..\:/Proyectos-Android/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Proyectos-Android/app/src/main/res/layout/button.xml" value="0.3515625" />
+        <entry key="..\:/Proyectos-Android/app/src/main/res/layout/checkbox.xml" value="0.358695652173913" />
+        <entry key="..\:/Proyectos-Android/app/src/main/res/layout/custom_dialog.xml" value="0.3515625" />
+        <entry key="..\:/Proyectos-Android/app/src/main/res/layout/customalert.xml" value="0.3515625" />
+        <entry key="..\:/Proyectos-Android/app/src/main/res/layout/datepicker.xml" value="0.358695652173913" />
+        <entry key="..\:/Proyectos-Android/app/src/main/res/layout/edittext.xml" value="0.358695652173913" />
+        <entry key="..\:/Proyectos-Android/app/src/main/res/layout/floatingactionbutton.xml" value="0.358695652173913" />
+        <entry key="..\:/Proyectos-Android/app/src/main/res/layout/floatinglabel.xml" value="0.3515625" />
+        <entry key="..\:/Proyectos-Android/app/src/main/res/layout/imagebutton.xml" value="0.358695652173913" />
+        <entry key="..\:/Proyectos-Android/app/src/main/res/layout/progressbar.xml" value="0.358695652173913" />
+        <entry key="..\:/Proyectos-Android/app/src/main/res/layout/radiobutton.xml" value="0.358695652173913" />
+        <entry key="..\:/Proyectos-Android/app/src/main/res/layout/ratingbar.xml" value="0.358695652173913" />
+        <entry key="..\:/Proyectos-Android/app/src/main/res/layout/scrollh.xml" value="0.35260416666666666" />
+        <entry key="..\:/Proyectos-Android/app/src/main/res/layout/seekbar.xml" value="0.3515625" />
+        <entry key="..\:/Proyectos-Android/app/src/main/res/layout/simpledialog.xml" value="0.3515625" />
+        <entry key="..\:/Proyectos-Android/app/src/main/res/layout/snack_bar.xml" value="0.28846153846153844" />
+        <entry key="..\:/Proyectos-Android/app/src/main/res/layout/spinner.xml" value="0.358695652173913" />
+        <entry key="..\:/Proyectos-Android/app/src/main/res/layout/switchbutton.xml" value="0.358695652173913" />
+        <entry key="..\:/Proyectos-Android/app/src/main/res/layout/timepicker.xml" value="0.358695652173913" />
+        <entry key="..\:/Proyectos-Android/app/src/main/res/layout/togglebutton.xml" value="0.358695652173913" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
